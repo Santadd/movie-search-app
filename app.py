@@ -1,5 +1,3 @@
-import json
-from turtle import pos
 import streamlit as st
 import requests
 apikey = "56c370de"
